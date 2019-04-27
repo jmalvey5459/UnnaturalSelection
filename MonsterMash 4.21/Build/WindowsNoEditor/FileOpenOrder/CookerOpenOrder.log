@@ -1,0 +1,886 @@
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/bat_body.uasset" 0
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/bat_wing.uasset" 1
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/flyingattribute_flap_PhysicsAsset.uasset" 2
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/flyingattribute_flap_Skeleton.uasset" 3
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/flyingattribute_flap.uasset" 4
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/flyingattribute_flap_Anim.uasset" 5
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/lambert1.uasset" 6
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/playerKiting_anim_PhysicsAsset.uasset" 7
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/playerKiting_anim_Skeleton.uasset" 8
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/playerKiting_anim.uasset" 9
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/playerKiting_anim_Anim.uasset" 10
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/armorWalk_anim_PhysicsAsset.uasset" 11
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/armorWalk_anim_Skeleton.uasset" 12
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/armorWalk_anim.uasset" 13
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/armorWalk_anim_Anim.uasset" 14
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/BatAnims/lambert1.uasset" 15
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/lambert1.uasset" 16
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/shield_enemy_body.uasset" 17
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/shield_enemy_face.uasset" 18
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/armorWalk_anim_ARMOUR_ENEMY_PhysicsAsset.uasset" 19
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/armorWalk_anim_ARMOUR_ENEMY_Skeleton.uasset" 20
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/armorWalk_anim_ARMOUR_ENEMY.uasset" 21
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/armorWalk_anim_ARMOUR_ENEMY_Anim.uasset" 22
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/armorWalk_anim_pCylinder5_PhysicsAsset.uasset" 23
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/armorWalk_anim_pCylinder5_Skeleton.uasset" 24
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/armorWalk_anim_pCylinder5.uasset" 25
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/GroundArmorAnims/armorWalk_anim_pCylinder5_Anim.uasset" 26
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Teeth/chargebiteAttack_anim_chargebite_attribute_Skeleton.uasset" 27
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Teeth/chargebiteAttack_anim_chargebite_attribute_Anim.uasset" 28
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Teeth/biteABP.uasset" 29
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/lambert1.uasset" 30
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Teeth/chargebiteAttack_anim_chargebite_attribute_PhysicsAsset.uasset" 31
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Teeth/chargebiteAttack_anim_chargebite_attribute.uasset" 32
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 33
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/chargebiteAttack_anim_Skeleton.uasset" 34
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/chargebiteAttack_anim_Anim.uasset" 35
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/ProperBite.uasset" 36
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/spitfireAttack_anim_Skeleton.uasset" 37
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/spitfireAttack_anim_Anim.uasset" 38
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/ProperSpit.uasset" 39
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/armorWalk_anim_Skeleton.uasset" 40
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/armorWalk_anim_Anim.uasset" 41
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/ProperWalk.uasset" 42
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/BatAnims/flyingattribute_flap_WINGS1_Skeleton.uasset" 43
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/BatAnims/flyingattribute_flap_WINGS1_Anim.uasset" 44
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/BatAnims/FlappingWingsABP.uasset" 45
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/Lightning/playerRun_Anim_SkeletonP2.uasset" 46
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/Lightning/playerRun_Anim_AnimP2.uasset" 47
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/Lightning/LightningABP.uasset" 48
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerRun_Anim_Skeleton.uasset" 49
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerAttack_anim_Anim.uasset" 50
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerKiting_anim_Anim.uasset" 51
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerRun_Anim_Anim.uasset" 52
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/PlayerSwordABP.uasset" 53
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 55
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 56
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 57
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 58
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 59
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Kite_Blueprint.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset" 62
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/M_GROUND.uasset" 63
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_electric.uasset" 64
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/defaultMat.uasset" 65
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/lightningBolt.uasset" 66
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 67
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 68
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 69
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 70
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 71
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Spark_Core.uasset" 72
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_Spark.uasset" 73
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/P_Sparks.uasset" 74
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/lightningBolt_Blueprint.uasset" 75
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 76
+"../../../Engine/Content/BasicShapes/Cube.uasset" 77
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Shield_BP.uasset" 78
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/paralysisSparks.uasset" 79
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/superBolt.uasset" 80
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/blackKnight.uasset" 81
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/orange.uasset" 82
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/kite.uasset" 83
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/paralysis.uasset" 84
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/thunderGlide.uasset" 85
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/upSwing.uasset" 86
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/HEALTHBAR.uasset" 87
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/Lightning/lambert1.uasset" 88
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/Lightning/playerRun_Anim_PhysicsAssetP2.uasset" 89
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/Lightning/playerRun_AnimP2.uasset" 90
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/lambert1.uasset" 91
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerRun_Anim_PhysicsAsset.uasset" 92
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerRun_Anim.uasset" 93
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_red_ground.uasset" 94
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_sword_a.uasset" 95
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_sword_b.uasset" 96
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/sword_a.uasset" 97
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ProgrammerARt/defaultMat.uasset" 98
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ProgrammerARt/testMonsterLocatorWIDE.uasset" 99
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/snowflake.uasset" 100
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/snowflake.uasset" 101
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/frost.uasset" 102
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/handSparks.uasset" 103
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 104
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 105
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 106
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Water_N.uasset" 107
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 108
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/P_Fire.uasset" 109
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/swordFire.uasset" 110
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/ArmorTrait.uasset" 111
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/BiteTrait.uasset" 112
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/FireTrait.uasset" 113
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/IceTrait.uasset" 114
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/NoTrait.uasset" 115
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/SpitTrait.uasset" 116
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/WingsTrait.uasset" 117
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Monster_Status.uasset" 118
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Reticle-01.uasset" 119
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/ReticleUI.uasset" 120
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/soloDeath.uasset" 121
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Gamemodes/playerEnum.uasset" 122
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Gamemodes/LocalMultiplayer.uasset" 123
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/youDied.uasset" 124
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 125
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 126
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/wavegradient.uasset" 127
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/M_LIQUID.uasset" 128
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_iceExplosion.uasset" 129
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/IceExplosion_Blueprint.uasset" 130
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 131
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorBurn.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 134
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/M_SLIME.uasset" 135
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_spit.uasset" 136
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/initialShadingGroup.uasset" 137
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/spit.uasset" 138
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/spit_Blueprint.uasset" 139
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/bat_body.uasset" 140
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/BatAnims/bat_wing.uasset" 141
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Glass.uasset" 142
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_bat_body.uasset" 143
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_bat_mouth.uasset" 144
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_shieldenemy_body.uasset" 145
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_shieldenemy_face.uasset" 146
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_slime_blue.uasset" 147
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_slime_fire.uasset" 148
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/RedGlow.uasset" 149
+"../../../Engine/Content/BasicShapes/Cone.uasset" 150
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/shield_enemy_body.uasset" 151
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/shield_enemy_face.uasset" 152
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/armorWalk_anim_PhysicsAsset.uasset" 153
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/armorWalk_anim.uasset" 154
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/Bat_Tooth.uasset" 155
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/chargebiteAttack_anim_PhysicsAsset.uasset" 156
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/chargebiteAttack_anim.uasset" 157
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/spitfireAttack_anim_PhysicsAsset.uasset" 158
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/fbx/spitfireAttack_anim.uasset" 159
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/BatAnims/bat_body.uasset" 160
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/BatAnims/flyingattribute_flap_WINGS1_PhysicsAsset.uasset" 161
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/BatAnims/flyingattribute_flap.uasset" 162
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/armour_enemy.uasset" 163
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_bat_tooth.uasset" 164
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/BAT_A.uasset" 165
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/SLIME.uasset" 166
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/SLIME_A.uasset" 167
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Slime_Particle.uasset" 168
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Basic_Wall.uasset" 169
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Sphere.uasset" 170
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Death.uasset" 171
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Essence.uasset" 172
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset" 173
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/aggroSparks.uasset" 174
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Burst_M.uasset" 175
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_Burst.uasset" 176
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 177
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 178
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 179
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 180
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/FusionBlast.uasset" 181
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/monsterBlueprint.uasset" 182
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Trunks/spitfireAttack_anim_pCylinder5_Skeleton.uasset" 183
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Trunks/SpitABP.uasset" 184
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Trunks/spitfireAttack_anim_pCylinder5_PhysicsAsset.uasset" 185
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Trunks/spitfireAttack_anim_pCylinder5.uasset" 186
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/MonsterAnims/Trunks/spitfireAttack_anim_pCylinder5_Anim.uasset" 187
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerAttack_anim.uasset" 188
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerAttack_anim_PhysicsAsset.uasset" 189
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerAttack_anim_Skeleton.uasset" 190
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerKiting_anim.uasset" 191
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerKiting_anim_PhysicsAsset.uasset" 192
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/playerKiting_anim_Skeleton.uasset" 193
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/WINGS1Mat.uasset" 194
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/Lightning/Helmet.uasset" 195
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/bat_body.uasset" 196
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/Bat_Tooth.uasset" 197
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/bat_wing.uasset" 198
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/blinn1.uasset" 199
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/Default_Material.uasset" 200
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/Fbx_Default_Material.uasset" 201
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/lambert1.uasset" 202
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/shield_enemy_body.uasset" 203
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/shield_enemy_face.uasset" 204
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/WorldGridMaterial.uasset" 205
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_ARMOUR_ENEMY_PhysicsAsset.uasset" 206
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_ARMOUR_ENEMY_Skeleton.uasset" 207
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_CylinderBrush_PhysicsAsset.uasset" 208
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_CylinderBrush_Skeleton.uasset" 209
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_dress_PhysicsAsset.uasset" 210
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_dress_Skeleton.uasset" 211
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_ENEMY_BAT_A_PhysicsAsset.uasset" 212
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_ENEMY_BAT_A_Skeleton.uasset" 213
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_HAND_B_PhysicsAsset.uasset" 214
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_HAND_B_Skeleton.uasset" 215
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_humanBody_PhysicsAsset.uasset" 216
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_humanBody_Skeleton.uasset" 217
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_mans_PhysicsAsset.uasset" 218
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_mans_Skeleton.uasset" 219
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pCylinder2_PhysicsAsset.uasset" 220
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pCylinder2_Skeleton.uasset" 221
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pCylinder4_PhysicsAsset.uasset" 222
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pCylinder4_Skeleton.uasset" 223
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_polySurface2_PhysicsAsset.uasset" 224
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_polySurface2_Skeleton.uasset" 225
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pSphere6_PhysicsAsset.uasset" 226
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pSphere6_Skeleton.uasset" 227
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_skirt1_PhysicsAsset.uasset" 228
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_skirt1_Skeleton.uasset" 229
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_slice_a_PhysicsAsset.uasset" 230
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_slice_a_Skeleton.uasset" 231
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_SLIME_A1_PhysicsAsset.uasset" 232
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_SLIME_A1_Skeleton.uasset" 233
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_SLIME_A_PhysicsAsset.uasset" 234
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_SLIME_A_Skeleton.uasset" 235
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_sword1_PhysicsAsset.uasset" 236
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_sword1_Skeleton.uasset" 237
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_Wall_A_PhysicsAsset.uasset" 238
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_Wall_A_Skeleton.uasset" 239
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_WINGS1_PhysicsAsset.uasset" 240
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_WINGS1_Skeleton.uasset" 241
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_WINGS2_PhysicsAsset.uasset" 242
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_WINGS2_Skeleton.uasset" 243
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim.uasset" 244
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_ARMOUR_ENEMY_Anim.uasset" 245
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_CylinderBrush_Anim.uasset" 246
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_dress_Anim.uasset" 247
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_ENEMY_BAT_A_Anim.uasset" 248
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_HAND_B_Anim.uasset" 249
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_humanBody_Anim.uasset" 250
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_mans_Anim.uasset" 251
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pCylinder2_Anim.uasset" 252
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pCylinder4_Anim.uasset" 253
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_polySurface2_Anim.uasset" 254
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_pSphere6_Anim.uasset" 255
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_skirt1_Anim.uasset" 256
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_slice_a_Anim.uasset" 257
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_SLIME_A1_Anim.uasset" 258
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_SLIME_A_Anim.uasset" 259
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_sword1_Anim.uasset" 260
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_Wall_A_Anim.uasset" 261
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_WINGS1_Anim.uasset" 262
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ANIMATIONS/PlayerAnims/WeirdBullShitAnims/playerLightning_anim_WINGS2_Anim.uasset" 263
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Geometry/Meshes/CubeMaterial.uasset" 264
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Geometry/Meshes/1M_Cube.uasset" 265
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 266
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Geometry/Meshes/TemplateFloor.uasset" 267
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 268
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 269
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 270
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 271
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 272
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 273
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPersonRun.uasset" 274
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 275
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 276
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 278
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 279
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 280
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 281
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 282
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 283
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 284
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 285
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 286
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 287
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 288
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 289
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 290
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 291
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 292
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 293
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 294
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 295
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 296
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_corrupted.uasset" 297
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_savannah.uasset" 298
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_volcano.uasset" 299
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_slime_green.uasset" 300
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 301
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/ICEYJOE_BC.uasset" 302
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/rock_N_T.uasset" 303
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/Snow_N_T.uasset" 304
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/M_ICE.uasset" 305
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ice_d.uasset" 306
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_stalagmite.uasset" 307
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_stalagmite_b.uasset" 308
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/desert_ground_MRAO.uasset" 309
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/desert_ground_normal.uasset" 310
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_wall_desert.uasset" 311
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/bridge_endMat.uasset" 312
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/HAND_A1Mat.uasset" 313
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/character_A_PhysicsAsset.uasset" 314
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/character_A_Skeleton.uasset" 315
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/character_A.uasset" 316
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/lambert3SG.uasset" 317
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/lambert4SG.uasset" 318
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/lambert5SG.uasset" 319
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 320
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 321
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 322
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 323
+"../../../Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uasset" 324
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/M_ICELVL_C_mi_ice_a_54B6E72E4216CAFEFB3161A4271E5E44.uasset" 325
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/M_ICELVL_C_mi_ice_c_54B6E72E4216CAFEFB3161A4271E5E44.uasset" 326
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/Pillar_CMat.uasset" 327
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/slice_a.uasset" 328
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/slice_b.uasset" 329
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/slice_c.uasset" 330
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/slice_d.uasset" 331
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/slice_e.uasset" 332
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/slice_f.uasset" 333
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/stalagmite_AMat.uasset" 334
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/stalagmite_BMat.uasset" 335
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/stalagmite_CMat.uasset" 336
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/wall_a.uasset" 337
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/CANTRAL_PLAZA.uasset" 338
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/ICELVL_BMat.uasset" 339
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/ICELVL_CMat.uasset" 340
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/ICELVL_C.uasset" 341
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/ICELVL_DMat.uasset" 342
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/ICELVL_D.uasset" 343
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/ICELVL_WALLMat.uasset" 344
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/ICELVL_WALL.uasset" 345
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/Steppe_aMat.uasset" 346
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/STEPPE_bMat.uasset" 347
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/STEPPE_CMat.uasset" 348
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/TERRAIN/STEPPE_DMat.uasset" 349
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BAT_A.uasset" 350
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/ENEMY_BAT_AMat.uasset" 351
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/SLIME_Blueprint.uasset" 352
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/WINGS_A.uasset" 353
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/CheckFlock.uasset" 354
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/AIMonsterBlackboard.uasset" 355
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/CheckAggro.uasset" 356
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/RapidMoveTo.uasset" 357
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/MONSTER_AI.uasset" 358
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/MonsterAI.uasset" 359
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/CloseEnough.uasset" 360
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Monsters/BlueBoi[debug]/MonsterChar.uasset" 361
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/SLIME.uasset" 362
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ProgrammerARt/testMonsterLocator.uasset" 363
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ProgrammerARt/testMonsterLocatorWIDE_GLOW.uasset" 364
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/StartingLayout_BuiltData.uasset" 365
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Sound/8-Bit-Mayhem.uasset" 366
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Sound/BGm.uasset" 367
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Pillar_50x500.uasset" 368
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Wall_400x300.uasset" 369
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Wall_400x400.uasset" 370
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Wall_500x500.uasset" 371
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 372
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 373
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Collapse01.uasset" 374
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Collapse02.uasset" 375
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Explosion01.uasset" 376
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Explosion02.uasset" 377
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Fire01.uasset" 378
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Fire_Sparks01.uasset" 379
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Light01.uasset" 380
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Light01_Cue.uasset" 381
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Light02.uasset" 382
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Light02_Cue.uasset" 383
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Smoke01.uasset" 384
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Starter_Birds01.uasset" 385
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Starter_Music01.uasset" 386
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Starter_Wind05.uasset" 387
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Starter_Wind06.uasset" 388
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Steam01.uasset" 389
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Explosion_Cue.uasset" 390
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 391
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 392
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 393
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Bush_D.uasset" 394
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Bush_N.uasset" 395
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_Bush.uasset" 396
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Bush.uasset" 397
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Chair_M.uasset" 398
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Chair_N.uasset" 399
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_Chair.uasset" 400
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Couch.uasset" 401
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Door_M.uasset" 402
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Door_N.uasset" 403
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_Door.uasset" 404
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Door.uasset" 405
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 406
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 407
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 408
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 409
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 410
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_RockMesh_M.uasset" 411
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_RockMesh_N.uasset" 412
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_Rock.uasset" 413
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Rock.uasset" 414
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Shelf_M.uasset" 415
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Shelf_N.uasset" 416
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_Shelf.uasset" 417
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Shelf.uasset" 418
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Basic_Floor.uasset" 419
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Stairs.uasset" 420
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Cone.uasset" 421
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 422
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 423
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Pipe.uasset" 424
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 425
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 426
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Plane.uasset" 427
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Torus.uasset" 428
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Trim.uasset" 429
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 430
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 431
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 432
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Tube.uasset" 433
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 434
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 435
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 436
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/ROCK_NORMAL_normal.uasset" 437
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/SNOWBANK_TEX_V1_normal.uasset" 438
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPerson/Meshes/RampMaterial.uasset" 439
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 440
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 441
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 442
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 443
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 444
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/reticle.uasset" 445
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/badReticle.uasset" 446
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/FireJumpCooldown.uasset" 447
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/MonsterOverheadUI.uasset" 448
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Reticle-01-01.uasset" 449
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/StunBoltCoolDown.uasset" 450
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Sprites/BLOG_VISUAL.uasset" 451
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 452
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 453
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 454
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 455
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 456
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 457
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 458
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 459
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 460
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 461
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 462
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 463
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 464
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 465
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 466
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 467
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 468
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 469
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 470
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 471
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 472
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 473
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 474
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 475
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 476
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 477
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 478
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 479
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 480
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 481
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 482
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 483
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 484
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 485
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 486
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 487
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 488
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 489
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 490
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 491
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 492
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 493
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 494
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 495
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 496
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 497
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 498
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 499
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 500
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 501
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 502
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 503
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 504
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 505
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 506
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 507
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 508
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 509
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 510
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 511
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 512
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 513
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 514
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 515
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 516
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 517
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 518
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 519
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 520
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 521
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 522
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 523
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 524
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 525
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 526
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 527
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 528
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 529
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 530
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 531
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 532
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 533
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 534
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 535
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 536
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 537
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 538
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 539
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 540
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 541
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 542
+"../../../Engine/Content/EngineResources/Black.uasset" 543
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 544
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 545
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 546
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 547
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 548
+"../../../Engine/Content/EngineSounds/Master.uasset" 549
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 550
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 551
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 552
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 553
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 554
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 555
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 556
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 557
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 558
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 559
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 560
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 561
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 562
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 563
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 564
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 565
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 566
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 567
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 568
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 569
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 570
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 571
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 572
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 573
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 574
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 575
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 576
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 577
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 578
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 579
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 580
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 581
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 582
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 583
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 584
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 585
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 586
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 587
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 588
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 589
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 590
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 591
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 592
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 593
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 594
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 595
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 596
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 597
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 598
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 599
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 600
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 601
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 602
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 603
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 604
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 605
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 606
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 607
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 608
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 609
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 611
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/M_TOONSHADER.uasset" 612
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_ice.uasset" 613
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_normal.uasset" 614
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_rainforest.uasset" 615
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ice_a.uasset" 616
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/tex/ICE_TEX_01_normal.uasset" 617
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ice_c.uasset" 618
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_wall_ice.uasset" 619
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_wall_shrubsteppe.uasset" 620
+"../../../Engine/Content/BasicShapes/Plane.uasset" 621
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_shrubsteppe.uasset" 622
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/CANTRAL_PLAZA.uasset" 623
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/ICELVL_A.uasset" 624
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/ICELVL_B.uasset" 625
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/ICELVL_C.uasset" 626
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/ICELVL_D.uasset" 627
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/ICELVL_WALL.uasset" 628
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/lambert2SG.uasset" 629
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/STEPPE_A.uasset" 630
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/STEPPE_B.uasset" 631
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/STEPPE_C.uasset" 632
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/STEPPE_D.uasset" 633
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/2TLevel.umap" 634
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/kirbyArt_LVL_BuiltData.uasset" 635
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_blue.uasset" 636
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_liquidLava.uasset" 637
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/M_WATER.uasset" 638
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_liquidWater.uasset" 639
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/chargebite_attribute.uasset" 640
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/pcube1.uasset" 641
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/pcube2.uasset" 642
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/spitfire_attribute.uasset" 643
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/WINGS_A.uasset" 644
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/kirbyArt_LVL.umap" 645
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 646
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/kirbyArt_tERRAIN_BuiltData.uasset" 647
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/kirbyArt_tERRAIN.umap" 648
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/MonsterTesting_BuiltData.uasset" 649
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/MonsterTesting.umap" 650
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_AssetPlatform.uasset" 651
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 652
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 653
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_MacroVariation.uasset" 654
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 655
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Ground_Grass.uasset" 656
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 657
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 658
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Wood_Pine.uasset" 659
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 660
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/StartingLayout.umap" 661
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/V1_01_BuiltData.uasset" 662
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/BOX.uasset" 663
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ice_B.uasset" 664
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_slime_yellow.uasset" 665
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/V1_01.umap" 666
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 667
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 668
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 669
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 670
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 671
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 672
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 673
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 674
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 675
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 676
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 677
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 678
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 679
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 680
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 681
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 682
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 683
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 684
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 685
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 686
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 687
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Maps/Advanced_Lighting.umap" 688
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 689
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 690
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 691
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 692
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 693
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 694
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Metal_Copper.uasset" 695
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Statue_M.uasset" 696
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Statue_N.uasset" 697
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 698
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Floor_400x400.uasset" 699
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 700
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Chair.uasset" 701
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_Statue.uasset" 702
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Statue.uasset" 703
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_TableRound_M.uasset" 704
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_TableRound_N.uasset" 705
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_TableRound.uasset" 706
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_TableRound.uasset" 707
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Maps/Minimal_Default.umap" 708
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Fire01_Cue.uasset" 709
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 710
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Smoke01_Cue.uasset" 711
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/P_Smoke.uasset" 712
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 713
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 714
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 715
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Steam01_Cue.uasset" 716
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/P_Steam_Lit.uasset" 717
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 718
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Lamp_M.uasset" 719
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Lamp_N.uasset" 720
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_Lamp.uasset" 721
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 722
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 723
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 724
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 725
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 726
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 727
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 728
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 729
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 730
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 731
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 732
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 733
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 734
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 735
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 736
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 737
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 738
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 739
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 740
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 741
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 742
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 743
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 744
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 745
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 746
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 747
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 748
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 749
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 750
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 751
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 752
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 753
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 754
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 755
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 756
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Gradinet_01.uasset" 757
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 758
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 759
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 760
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 761
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 762
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 763
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 764
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 765
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 766
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 767
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 768
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 769
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 770
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 771
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 772
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 773
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 774
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 775
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 776
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 777
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 778
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 779
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 780
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 781
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 782
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Ground_Moss.uasset" 783
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 784
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 785
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Metal_Gold.uasset" 786
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 787
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Metal_Rust.uasset" 788
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 789
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 790
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Metal_Steel.uasset" 791
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 792
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 793
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 794
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 795
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 796
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 797
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 798
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 799
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Rock_Slate.uasset" 800
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 801
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 802
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 803
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 804
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 805
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 806
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 807
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 808
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 809
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 810
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 811
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Tech_Panel.uasset" 812
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Water_Lake.uasset" 813
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Water_M.uasset" 814
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Water_Ocean.uasset" 815
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 816
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 817
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 818
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 819
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 820
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 821
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 822
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 823
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Wood_Oak.uasset" 824
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 825
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 826
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 827
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Wall_400x200.uasset" 828
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 829
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 830
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Collapse_Cue.uasset" 831
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 832
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 833
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 834
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 835
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/MaterialSphere.uasset" 836
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Frame_M.uasset" 837
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Textures/T_Frame_N.uasset" 838
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/Materials/M_Frame.uasset" 839
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_CornerFrame.uasset" 840
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_DoorFrame.uasset" 841
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_GlassWindow.uasset" 842
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_PillarFrame.uasset" 843
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_PillarFrame300.uasset" 844
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Props/SM_WindowFrame.uasset" 845
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_Cube.uasset" 846
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 847
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/StarterContent/Maps/StarterMap.umap" 848
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Ocean_Blueprint.uasset" 849
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/Pillar_FMat.uasset" 850
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/pillar_F.uasset" 851
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Instructions1.uasset" 852
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Signpost_Blueprint.uasset" 853
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 854
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/bossKilled.uasset" 855
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/MonsterCounter.uasset" 856
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/pauseMenu.uasset" 857
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/bridge_center.uasset" 858
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/bridge_end.uasset" 859
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/bush_A.uasset" 860
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/MAT/mi_ground_desert.uasset" 861
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/bush_B.uasset" 862
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/bush_C.uasset" 863
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/CENTRAL_PLAZA.uasset" 864
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/CENTRAL_PLAZA_BMat.uasset" 865
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/CENTRAL_PLAZA_B.uasset" 866
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/Pillar_AMat.uasset" 867
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/pillar_a.uasset" 868
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/Pillar_BMat.uasset" 869
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/pillar_B.uasset" 870
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/pillar_C.uasset" 871
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/Pillar_DMat.uasset" 872
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/pillar_d.uasset" 873
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/Pillar_EMat.uasset" 874
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/pillar_E.uasset" 875
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/stalagmite_A.uasset" 876
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/stalagmite_B.uasset" 877
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/mesh/stalagmite_C.uasset" 878
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Instructions2.uasset" 879
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Instructions3.uasset" 880
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Instructions4.uasset" 881
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/UI/Instructions5.uasset" 882
+"../../../../../../Users/john.malvey/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 883
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 884
+"../../../Engine/Content/Maps/Entry.umap" 885

@@ -1,0 +1,1546 @@
+﻿Log file open, 11/15/18 00:13:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MonsterMash
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288612
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.203s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Tossosis -epicuserid=0c2a9be50a654b0da9a997c210b6a90b -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.15-05.13.19:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.15-05.13.19:357][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.15-05.13.19:358][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.15-05.13.19:358][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.15-05.13.19:360][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.15-05.13.19:360][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.15-05.13.19:361][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.15-05.13.19:361][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.15-05.13.19:361][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.15-05.13.19:372][  0]LogHAL: Display: Platform has ~ 32 GB [34204270592 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.11.15-05.13.19:372][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.15-05.13.19:372][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.15-05.13.19:372][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.15-05.13.19:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.15-05.13.19:374][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.15-05.13.19:375][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.15-05.13.19:375][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Config/Windows/Engine.ini]
+[2018.11.15-05.13.19:375][  0]LogInit: Computer: FOS2ND-03
+[2018.11.15-05.13.19:375][  0]LogInit: User: thomassullivan
+[2018.11.15-05.13.19:375][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.15-05.13.19:375][  0]LogInit: High frequency timer resolution =3.328121 MHz
+[2018.11.15-05.13.19:375][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.11.15-05.13.19:375][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.15-05.13.19:375][  0]LogMemory: Process Physical Memory: 105.77 MB used, 105.77 MB peak
+[2018.11.15-05.13.19:375][  0]LogMemory: Process Virtual Memory: 100.75 MB used, 100.75 MB peak
+[2018.11.15-05.13.19:375][  0]LogMemory: Physical Memory: 7204.50 MB used,  25415.23 MB free, 32619.73 MB total
+[2018.11.15-05.13.19:375][  0]LogMemory: Virtual Memory: 560.98 MB used,  134217168.00 MB free, 134217728.00 MB total
+[2018.11.15-05.13.19:401][  0]LogInit: Using OS detected language (en-US).
+[2018.11.15-05.13.19:401][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.15-05.13.19:401][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.15-05.13.19:792][  0]LogStreaming: Display: Took  0.392s to InitEngineTextLocalization.
+[2018.11.15-05.13.19:792][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.15-05.13.19:825][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.15-05.13.19:825][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.15-05.13.20:179][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.15-05.13.20:179][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.15-05.13.20:204][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.15-05.13.20:204][  0]LogD3D11RHI:       128/0/16309 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.11.15-05.13.20:207][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.15-05.13.20:207][  0]LogD3D11RHI:       0/0/16309 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.15-05.13.20:207][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.15-05.13.20:212][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.15-05.13.20:213][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.15-05.13.20:213][  0]LogWindows: EnumDisplayDevices:
+[2018.11.15-05.13.20:213][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.15-05.13.20:213][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.15-05.13.20:214][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.15-05.13.20:214][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.11.15-05.13.20:214][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2018.11.15-05.13.20:214][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2018.11.15-05.13.20:214][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2018.11.15-05.13.20:214][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.11.15-05.13.20:257][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2018.11.15-05.13.20:257][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.15-05.13.20:264][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.11.15-05.13.20:801][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.15-05.13.20:817][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.15-05.13.20:832][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.15-05.13.20:849][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.15-05.13.20:867][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.15-05.13.20:882][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.15-05.13.20:898][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.15-05.13.20:916][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.15-05.13.20:924][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.15-05.13.21:037][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:037][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:037][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:037][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:037][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-05.13.21:041][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.15-05.13.21:114][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.15-05.13.21:114][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.15-05.13.21:141][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.15-05.13.21:141][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.15-05.13.21:155][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.15-05.13.21:169][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.15-05.13.21:185][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.15-05.13.21:200][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.15-05.13.21:248][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.15-05.13.21:249][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.15-05.13.21:249][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.15-05.13.21:329][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Intermediate/Shaders/WorkingDirectory/1560/).
+[2018.11.15-05.13.21:330][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/thomas.sullivan/AppData/Local/Temp/UnrealShaderWorkingDir/34D8003544EF32333103BAB78DB02270/'.
+[2018.11.15-05.13.21:332][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.15-05.13.21:332][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.15-05.13.21:332][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.15-05.13.21:909][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.15-05.13.21:963][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/thomas.sullivan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.15-05.13.21:963][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/thomas.sullivan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.15-05.13.21:963][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.15-05.13.21:963][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.15-05.13.21:963][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.15-05.13.21:963][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.15-05.13.21:976][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.15-05.13.21:976][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.15-05.13.21:976][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.11.15-05.13.21:990][  0]LogDerivedDataCache: Using Local data cache path C:/Users/thomas.sullivan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.15-05.13.21:990][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.15-05.13.21:990][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.15-05.13.22:014][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.15-05.13.22:015][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.15-05.13.22:017][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.15-05.13.22:142][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2018.11.15-05.13.22:574][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.15-05.13.22:759][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.15-05.13.22:765][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.15-05.13.22:765][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.15-05.13.22:765][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.15-05.13.22:765][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.15-05.13.22:781][  0]LogNetVersion: MonsterMash 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3967311049)
+[2018.11.15-05.13.23:507][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.210821 seconds
+[2018.11.15-05.13.23:517][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.11.15-05.13.23:518][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.11.15-05.13.23:518][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.15-05.13.24:752][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.15-05.13.24:766][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.15-05.13.25:804][  0]SourceControl: Source control is disabled
+[2018.11.15-05.13.25:804][  0]SourceControl: Source control is disabled
+[2018.11.15-05.13.25:807][  0]SourceControl: Source control is disabled
+[2018.11.15-05.13.25:808][  0]SourceControl: Source control is disabled
+[2018.11.15-05.13.26:010][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.15-05.13.26:066][  0]LogOcInput: OculusInput pre-init called
+[2018.11.15-05.13.26:210][  0]LogEngine: Initializing Engine...
+[2018.11.15-05.13.26:211][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.15-05.13.26:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.15-05.13.26:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.15-05.13.26:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.15-05.13.26:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.15-05.13.26:462][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.15-05.13.26:480][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.15-05.13.26:488][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-05.13.26:523][  0]LogInit: FAudioDevice initialized.
+[2018.11.15-05.13.26:524][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.15-05.13.26:606][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/thomas.sullivan/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.15-05.13.26:608][  0]LogInit: Texture streaming: Enabled
+[2018.11.15-05.13.26:628][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.15-05.13.26:645][  0]LogInit: Transaction tracking system initialized
+[2018.11.15-05.13.26:675][  0]BlueprintLog: New page: Editor Load
+[2018.11.15-05.13.26:768][  0]LocalizationService: Localization service is disabled
+[2018.11.15-05.13.26:888][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2018.11.15-05.13.27:296][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.15-05.13.27:296][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.15-05.13.27:296][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.15-05.13.27:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.15-05.13.27:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.15-05.13.27:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.15-05.13.27:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.15-05.13.27:448][  0]SourceControl: Source control is disabled
+[2018.11.15-05.13.27:448][  0]Cmd: MAP LOAD FILE="../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.15-05.13.27:449][  0]LightingResults: New page: Lighting Build
+[2018.11.15-05.13.27:452][  0]MapCheck: New page: Map Check
+[2018.11.15-05.13.27:452][  0]LightingResults: New page: Lighting Build
+[2018.11.15-05.13.29:800][  0]LogTexture: Display: Building textures: Reticle-01 (BGRA8, 267X267)
+[2018.11.15-05.13.29:800][  0]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 64X64)
+[2018.11.15-05.13.29:800][  0]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2018.11.15-05.13.29:800][  0]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2018.11.15-05.13.29:800][  0]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2018.11.15-05.13.29:801][  0]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2018.11.15-05.13.29:801][  0]LogStaticMesh: Building static mesh ICELVL_B...
+[2018.11.15-05.13.29:826][  0]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2018.11.15-05.13.29:826][  0]LogStaticMesh: Built static mesh [0.03s] /Game/mesh/ICELVL_B.ICELVL_B
+[2018.11.15-05.13.29:833][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2018.11.15-05.13.29:833][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2018.11.15-05.13.29:833][  0]LogStaticMesh: Building static mesh ICELVL_A...
+[2018.11.15-05.13.29:842][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2018.11.15-05.13.29:842][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/ICELVL_A.ICELVL_A
+[2018.11.15-05.13.29:848][  0]LogMaterial: Display: Missing cached shader map for material CENTRAL_PLAZA_BMat, compiling. 
+[2018.11.15-05.13.29:903][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 64X64)
+[2018.11.15-05.13.29:903][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.15-05.13.29:903][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.11.15-05.13.29:903][  0]LogStaticMesh: Building static mesh CENTRAL_PLAZA_B...
+[2018.11.15-05.13.29:911][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/CENTRAL_PLAZA_B.CENTRAL_PLAZA_B
+[2018.11.15-05.13.29:925][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.15-05.13.29:925][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.15-05.13.29:926][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.13.29:926][  0]LogMaterial: Display: Missing cached shader map for material M_LIQUID, compiling. 
+[2018.11.15-05.13.30:064][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2018.11.15-05.13.30:064][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2018.11.15-05.13.30:064][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.11.15-05.13.30:064][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2018.11.15-05.13.30:064][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2018.11.15-05.13.30:064][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.11.15-05.13.30:064][  0]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.15-05.13.30:064][  0]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.15-05.13.30:064][  0]LogStaticMesh: Building static mesh CENTRAL_PLAZA...
+[2018.11.15-05.13.30:119][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2018.11.15-05.13.30:119][  0]LogStaticMesh: Built static mesh [0.06s] /Game/mesh/CENTRAL_PLAZA.CENTRAL_PLAZA
+[2018.11.15-05.13.30:145][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2018.11.15-05.13.30:145][  0]LogStaticMesh: Building static mesh CANTRAL_PLAZA...
+[2018.11.15-05.13.30:152][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2018.11.15-05.13.30:152][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/CANTRAL_PLAZA.CANTRAL_PLAZA
+[2018.11.15-05.13.30:185][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.11.15-05.13.30:186][  0]LogStaticMesh: Building static mesh bush_C...
+[2018.11.15-05.13.30:206][  0]LogStaticMesh: Built static mesh [0.02s] /Game/mesh/bush_C.bush_C
+[2018.11.15-05.13.30:213][  0]LogMaterial: Display: Missing cached shader map for material M_WATER, compiling. 
+[2018.11.15-05.13.30:257][  0]LogMaterial: Display: Missing cached shader map for material M_ICE, compiling. 
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 128X64)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 128X64)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 64X32)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 128X64)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 128X64)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 128X64)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 512X256)
+[2018.11.15-05.13.30:417][  0]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2018.11.15-05.13.30:422][  0]LogMaterial: Display: Missing cached shader map for material M_ICE, compiling. 
+[2018.11.15-05.13.30:497][  0]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 512X256)
+[2018.11.15-05.13.30:497][  0]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 512X256)
+[2018.11.15-05.13.30:497][  0]LogStaticMesh: Building static mesh bush_B...
+[2018.11.15-05.13.30:517][  0]LogStaticMesh: Built static mesh [0.02s] /Game/mesh/bush_B.bush_B
+[2018.11.15-05.13.30:526][  0]LogStaticMesh: Building static mesh bush_A...
+[2018.11.15-05.13.30:545][  0]LogStaticMesh: Built static mesh [0.02s] /Game/mesh/bush_A.bush_A
+[2018.11.15-05.13.30:551][  0]LogStaticMesh: Building static mesh bridge_center...
+[2018.11.15-05.13.30:556][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/bridge_center.bridge_center
+[2018.11.15-05.13.30:559][  0]LogStaticMesh: Building static mesh bridge_end...
+[2018.11.15-05.13.30:567][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/bridge_end.bridge_end
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 128X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 32X32)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 512X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X256)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X128)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: desert_ground_MRAO (AutoDXT, 2048X2048)
+[2018.11.15-05.13.31:314][  0]LogTexture: Display: Building textures: desert_ground_normal (BC5, 2048X2048)
+[2018.11.15-05.13.31:314][  0]LogStaticMesh: Building static mesh sword_a...
+[2018.11.15-05.13.31:335][  0]LogStaticMesh: Built static mesh [0.02s] /Game/mesh/sword_a.sword_a
+[2018.11.15-05.13.31:718][  0]LogStaticMesh: Building static mesh ICELVL_C...
+[2018.11.15-05.13.31:727][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/ICELVL_C.ICELVL_C
+[2018.11.15-05.13.31:735][  0]LogStaticMesh: Building static mesh ICELVL_D...
+[2018.11.15-05.13.31:761][  0]LogStaticMesh: Built static mesh [0.03s] /Game/mesh/ICELVL_D.ICELVL_D
+[2018.11.15-05.13.31:765][  0]LogStaticMesh: Building static mesh ICELVL_WALL...
+[2018.11.15-05.13.31:784][  0]LogStaticMesh: Built static mesh [0.02s] /Game/mesh/ICELVL_WALL.ICELVL_WALL
+[2018.11.15-05.13.31:796][  0]LogStaticMesh: Building static mesh pillar_a...
+[2018.11.15-05.13.31:802][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/pillar_a.pillar_a
+[2018.11.15-05.13.31:804][  0]LogStaticMesh: Building static mesh pillar_B...
+[2018.11.15-05.13.31:810][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/pillar_B.pillar_B
+[2018.11.15-05.13.31:812][  0]LogStaticMesh: Building static mesh pillar_C...
+[2018.11.15-05.13.31:818][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/pillar_C.pillar_C
+[2018.11.15-05.13.31:821][  0]LogStaticMesh: Building static mesh pillar_d...
+[2018.11.15-05.13.31:828][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/pillar_d.pillar_d
+[2018.11.15-05.13.31:830][  0]LogStaticMesh: Building static mesh pillar_E...
+[2018.11.15-05.13.31:837][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/pillar_E.pillar_E
+[2018.11.15-05.13.31:839][  0]LogStaticMesh: Building static mesh pillar_F...
+[2018.11.15-05.13.31:846][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/pillar_F.pillar_F
+[2018.11.15-05.13.31:849][  0]LogStaticMesh: Building static mesh stalagmite_A...
+[2018.11.15-05.13.31:853][  0]LogStaticMesh: Built static mesh [0.00s] /Game/mesh/stalagmite_A.stalagmite_A
+[2018.11.15-05.13.31:856][  0]LogStaticMesh: Building static mesh stalagmite_B...
+[2018.11.15-05.13.31:861][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/stalagmite_B.stalagmite_B
+[2018.11.15-05.13.31:865][  0]LogStaticMesh: Building static mesh stalagmite_C...
+[2018.11.15-05.13.31:870][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/stalagmite_C.stalagmite_C
+[2018.11.15-05.13.31:874][  0]LogStaticMesh: Building static mesh STEPPE_A...
+[2018.11.15-05.13.31:882][  0]LogStaticMesh: Built static mesh [0.01s] /Game/mesh/STEPPE_A.STEPPE_A
+[2018.11.15-05.13.31:963][  0]LogStaticMesh: Building static mesh STEPPE_B...
+[2018.11.15-05.13.32:210][  0]LogStaticMesh: Built static mesh [0.25s] /Game/mesh/STEPPE_B.STEPPE_B
+[2018.11.15-05.13.32:283][  0]LogStaticMesh: Building static mesh STEPPE_C...
+[2018.11.15-05.13.32:349][  0]LogStaticMesh: Built static mesh [0.07s] /Game/mesh/STEPPE_C.STEPPE_C
+[2018.11.15-05.13.32:381][  0]LogStaticMesh: Building static mesh STEPPE_D...
+[2018.11.15-05.13.32:446][  0]LogStaticMesh: Built static mesh [0.06s] /Game/mesh/STEPPE_D.STEPPE_D
+[2018.11.15-05.13.32:462][  0]LogMaterial: Display: Missing cached shader map for material M_TOONSHADER, compiling. 
+[2018.11.15-05.13.32:821][  0]LogMaterial: Display: Missing cached shader map for material Pillar_DMat, compiling. 
+[2018.11.15-05.13.32:847][  0]LogMaterial: Display: Missing cached shader map for material Pillar_BMat, compiling. 
+[2018.11.15-05.13.32:867][  0]LogMaterial: Display: Missing cached shader map for material Pillar_AMat, compiling. 
+[2018.11.15-05.13.32:899][  0]LogMaterial: Display: Missing cached shader map for material Pillar_FMat, compiling. 
+[2018.11.15-05.13.32:919][  0]LogMaterial: Display: Missing cached shader map for material Pillar_EMat, compiling. 
+[2018.11.15-05.13.33:197][  0]LogShaderCompilers: Display: Shaders left to compile 532
+[2018.11.15-05.13.33:197][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.13.35:884][  0]LogShaderCompilers: Display: Shaders left to compile 522
+[2018.11.15-05.13.35:884][  0]LogShaderCompilers: Display: Shaders left to compile 512
+[2018.11.15-05.13.35:884][  0]LogShaderCompilers: Display: Shaders left to compile 502
+[2018.11.15-05.13.35:885][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.15-05.13.35:979][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.15-05.13.35:980][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.38ms to complete.
+[2018.11.15-05.13.35:980][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.532
+[2018.11.15-05.13.36:144][  0]LogShaderCompilers: Display: Shaders left to compile 492
+[2018.11.15-05.13.36:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.13.36:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.13.36:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.13.36:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.13.36:268][  0]LogCollectionManager: Loaded 0 collections in 0.002363 seconds
+[2018.11.15-05.13.36:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Collections/' took 0.01s
+[2018.11.15-05.13.36:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Developers/thomassullivan/Collections/' took 0.01s
+[2018.11.15-05.13.36:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Collections/' took 0.01s
+[2018.11.15-05.13.36:323][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.15-05.13.36:340][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2651 classes and 620 folders.
+[2018.11.15-05.13.36:354][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.15-05.13.36:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:414][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.15-05.13.36:555][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.15-05.13.36:570][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.15-05.13.36:653][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.15-05.13.36:653][  0]LogLoad: (Engine Initialization) Total time: 19.08 seconds
+[2018.11.15-05.13.36:653][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.15-05.13.36:663][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-05.13.36:725][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.15-05.13.36:737][  0]LogSlate: Took 0.000495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.15-05.13.36:740][  0]LogSlate: Took 0.000510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.15-05.13.36:749][  0]LogSlate: Took 0.002066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.15-05.13.36:919][  0]LogSlate: Took 0.001917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.15-05.13.36:972][  1]LogRenderer: Reallocating scene render targets to support 804x440 Format 10 NumSamples 1 (Frame:1).
+[2018.11.15-05.13.37:674][  1]LogShaderCompilers: Display: Shaders left to compile 482
+[2018.11.15-05.13.37:886][  2]LogShaderCompilers: Display: Shaders left to compile 472
+[2018.11.15-05.13.39:118][  8]LogAssetRegistry: Asset discovery search completed in 16.9997 seconds
+[2018.11.15-05.13.39:121][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.15-05.13.39:121][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2018.11.15-05.13.39:584][ 10]LogShaderCompilers: Display: Shaders left to compile 462
+[2018.11.15-05.13.39:651][ 10]LogShaderCompilers: Display: Shaders left to compile 452
+[2018.11.15-05.13.39:772][ 10]LogShaderCompilers: Display: Shaders left to compile 442
+[2018.11.15-05.13.44:319][ 87]LogShaderCompilers: Display: Shaders left to compile 432
+[2018.11.15-05.13.47:858][166]LogShaderCompilers: Display: Shaders left to compile 422
+[2018.11.15-05.13.48:138][172]LogShaderCompilers: Display: Shaders left to compile 412
+[2018.11.15-05.13.48:441][178]LogShaderCompilers: Display: Shaders left to compile 402
+[2018.11.15-05.13.49:236][194]LogShaderCompilers: Display: Shaders left to compile 392
+[2018.11.15-05.13.50:913][227]LogShaderCompilers: Display: Shaders left to compile 382
+[2018.11.15-05.13.50:976][228]LogShaderCompilers: Display: Shaders left to compile 372
+[2018.11.15-05.13.51:888][243]LogShaderCompilers: Display: Shaders left to compile 362
+[2018.11.15-05.13.53:728][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.13.53:934][284]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:280).
+[2018.11.15-05.13.53:934][284]LogShaderCompilers: Display: Shaders left to compile 352
+[2018.11.15-05.13.54:942][299]LogShaderCompilers: Display: Shaders left to compile 342
+[2018.11.15-05.13.55:493][310]LogShaderCompilers: Display: Shaders left to compile 332
+[2018.11.15-05.13.56:830][334]LogShaderCompilers: Display: Shaders left to compile 322
+[2018.11.15-05.13.56:974][336]LogShaderCompilers: Display: Shaders left to compile 312
+[2018.11.15-05.13.58:319][358]LogShaderCompilers: Display: Shaders left to compile 302
+[2018.11.15-05.13.58:763][366]LogShaderCompilers: Display: Shaders left to compile 292
+[2018.11.15-05.14.00:310][396]LogShaderCompilers: Display: Shaders left to compile 282
+[2018.11.15-05.14.02:240][429]LogShaderCompilers: Display: Shaders left to compile 272
+[2018.11.15-05.14.04:250][466]LogShaderCompilers: Display: Shaders left to compile 262
+[2018.11.15-05.14.04:902][478]LogShaderCompilers: Display: Shaders left to compile 252
+[2018.11.15-05.14.05:050][481]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.11.15-05.14.05:212][484]LogShaderCompilers: Display: Shaders left to compile 232
+[2018.11.15-05.14.07:115][518]LogShaderCompilers: Display: Shaders left to compile 222
+[2018.11.15-05.14.07:862][532]LogShaderCompilers: Display: Shaders left to compile 212
+[2018.11.15-05.14.08:016][535]LogShaderCompilers: Display: Shaders left to compile 202
+[2018.11.15-05.14.10:394][578]LogShaderCompilers: Display: Shaders left to compile 192
+[2018.11.15-05.14.10:683][583]LogShaderCompilers: Display: Shaders left to compile 182
+[2018.11.15-05.14.10:934][587]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.11.15-05.14.12:346][612]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.11.15-05.14.13:340][630]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.11.15-05.14.13:464][632]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.11.15-05.14.13:866][639]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.11.15-05.14.16:139][680]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.11.15-05.14.18:829][729]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.11.15-05.14.19:041][733]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.11.15-05.14.19:465][741]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.11.15-05.14.20:077][752]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.11.15-05.14.21:351][773]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.15-05.14.22:385][790]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.15-05.14.23:546][813]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.15-05.14.24:013][822]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.15-05.14.24:773][837]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.15-05.14.25:994][861]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.15-05.14.26:947][880]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.15-05.14.27:520][892]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.15.23:075][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.15.23:214][175]MapCheck: New page: Map Check
+[2018.11.15-05.15.23:239][175]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.15-05.15.23:239][175]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.15-05.15.25:105][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.15-05.15.25:113][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy mi_ice_c, compiling. 
+[2018.11.15-05.15.25:122][175]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.15.25:122][175]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-05.15.25:122][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy mi_ice_a, compiling. 
+[2018.11.15-05.15.25:132][175]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-05.15.25:133][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy mi_shieldenemy_face, compiling. 
+[2018.11.15-05.15.25:149][175]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-05.15.25:149][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2018.11.15-05.15.25:174][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WATER, compiling. 
+[2018.11.15-05.15.25:184][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2018.11.15-05.15.25:199][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.11.15-05.15.25:209][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.11.15-05.15.25:219][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2018.11.15-05.15.25:229][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy mi_slime_blue, compiling. 
+[2018.11.15-05.15.25:239][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.11.15-05.15.25:249][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.11.15-05.15.25:256][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy snowflake, compiling. 
+[2018.11.15-05.15.25:262][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bat_body, compiling. 
+[2018.11.15-05.15.25:269][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bat_wing, compiling. 
+[2018.11.15-05.15.25:276][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.15.26:077][175]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-05.15.26:077][175]TextureStreamingBuild: Display: Compiling optional shaders took 0.978 seconds.
+[2018.11.15-05.15.26:248][175]LogLevel: Display: Export Material TexCoord Scales took 0.170 seconds.
+[2018.11.15-05.15.26:339][175]TextureStreamingBuild: Display: Build Texture Streaming took 0.091 seconds.
+[2018.11.15-05.15.26:367][175]LightingResults: New page: Lighting Build - Nov 14, 2018, 7:15:26 PM
+[2018.11.15-05.15.26:421][175]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.15-05.15.26:531][175]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.15-05.15.26:549][175]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.15-05.15.27:580][175]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.15-05.15.27:580][175]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1560
+[2018.11.15-05.15.35:632][175]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.15-05.15.35:632][175]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.15-05.15.35:632][175]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.15-05.15.35:632][175]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.15-05.15.35:632][175]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.15-05.15.36:016][175]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.15-05.15.36:016][175]MapCheck: New page: ThirdPersonExampleMap - Nov 14, 2018, 7:15:36 PM
+[2018.11.15-05.15.36:018][175]MapCheck: Warning: ICELVL_B_2 Static mesh actor has NULL StaticMesh property 
+[2018.11.15-05.15.36:018][175]MapCheck: Warning: ICELVL_B_2 Static mesh actor ICELVL_B_2 has NULL StaticMesh property 
+[2018.11.15-05.15.36:021][175]MapCheck: Warning: stalagmite_A46 stalagmite_A46 is in the same location as stalagmite_A69 
+[2018.11.15-05.15.36:021][175]MapCheck: Warning: stalagmite_A69 stalagmite_A69 is in the same location as stalagmite_A46 
+[2018.11.15-05.15.36:025][175]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 9.232ms to complete.
+[2018.11.15-05.15.36:047][175]LogEditorBuildUtils: Build time 0:12
+[2018.11.15-05.15.36:110][176]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_ice_c, compiling. 
+[2018.11.15-05.15.36:120][176]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_ice_c, compiling. 
+[2018.11.15-05.15.36:129][176]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.15.36:129][176]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.15.36:219][177]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_ice_a, compiling. 
+[2018.11.15-05.15.36:233][177]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.15.36:234][177]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_ice_a, compiling. 
+[2018.11.15-05.15.36:248][177]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.15.36:582][187]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_WATER, compiling. 
+[2018.11.15-05.15.36:589][187]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_WATER, compiling. 
+[2018.11.15-05.15.43:751][349]Job is a success!
+[2018.11.15-05.15.43:859][350]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.15-05.15.44:077][350]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.035s
+[2018.11.15-05.15.44:077][350]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.15-05.15.44:077][350]LogVolumetricLightmapImport:      BrickData 995x5x5 = 1.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.11.15-05.15.44:077][350]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.15-05.15.44:077][350]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2018.11.15-05.15.44:077][350]LogVolumetricLightmapImport:          1: 6.0% covering 18.8% of volume
+[2018.11.15-05.15.44:077][350]LogVolumetricLightmapImport:          2: 93.5% covering 4.5% of volume
+[2018.11.15-05.15.45:529][350]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.11.15-05.15.45:529][350]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 128X64)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 512X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 512X256)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 128X64)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 128X64)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 128X64)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 128X64)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 128X64)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 128X128)
+[2018.11.15-05.15.45:530][350]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 128X128)
+[2018.11.15-05.15.45:531][350]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 128X64)
+[2018.11.15-05.15.45:531][350]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2018.11.15-05.15.45:531][350]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2018.11.15-05.15.45:531][350]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 64X32)
+[2018.11.15-05.15.45:531][350]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 64X64)
+[2018.11.15-05.15.45:531][350]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 64X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 512X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 512X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 64X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 64X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 32X32)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2018.11.15-05.15.45:688][350]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 1024X64)
+[2018.11.15-05.15.45:689][350]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X128)
+[2018.11.15-05.15.45:689][350]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X256)
+[2018.11.15-05.15.45:689][350]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X512)
+[2018.11.15-05.15.45:729][350]Lightmass on FOS2ND-03: 7.74 sec total, 210 ms importing, 66 ms setup, 1.03 sec photons, 6.38 sec processing, 0 ms extra exporting [199/199 mappings]. Threads: 44.5 sec total, 20.5 sec processing.
+[2018.11.15-05.15.45:790][350]LogStaticLightingSystem: Illumination: 19.3 sec (1.26 sec encoding lightmaps, 149 ms encoding shadowmaps)
+[2018.11.15-05.15.45:790][350]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.5 MB streaming, 0.0 MB non-streaming), 30 textures
+[2018.11.15-05.15.45:790][350]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 15 textures
+[2018.11.15-05.15.46:641][350]DumpUnbuiltLightIteractions
+[2018.11.15-05.15.46:641][350]Lights with unbuilt interactions: 0
+[2018.11.15-05.15.46:641][350]
+[2018.11.15-05.15.46:642][350]Primitives with unbuilt interactions: 0
+[2018.11.15-05.15.46:820][351]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.15-05.15.46:820][351]MapCheck: New page: ThirdPersonExampleMap - Nov 14, 2018, 7:15:46 PM
+[2018.11.15-05.15.46:821][351]MapCheck: Warning: ICELVL_B_2 Static mesh actor has NULL StaticMesh property 
+[2018.11.15-05.15.46:821][351]MapCheck: Warning: ICELVL_B_2 Static mesh actor ICELVL_B_2 has NULL StaticMesh property 
+[2018.11.15-05.15.46:823][351]MapCheck: Warning: stalagmite_A46 stalagmite_A46 is in the same location as stalagmite_A69 
+[2018.11.15-05.15.46:824][351]MapCheck: Warning: stalagmite_A69 stalagmite_A69 is in the same location as stalagmite_A46 
+[2018.11.15-05.15.46:829][351]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 9.204ms to complete.
+[2018.11.15-05.22.02:696][587]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.15-05.22.02:734][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.22.02:734][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-05.22.02:734][587]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 14, 2018, 7:22:02 PM)
+[2018.11.15-05.22.02:747][587]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.22.02:911][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164171s)
+[2018.11.15-05.22.02:912][587]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.22.02:912][587]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.11.15-05.22.02:912][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.165524s)
+[2018.11.15-05.22.02:939][587]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-05.22.02:953][587]LogInit: FAudioDevice initialized.
+[2018.11.15-05.22.02:963][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.22.03:021][587]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.22.03:185][587]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.22.03
+[2018.11.15-05.22.03:334][587]LogWorld: Bringing up level for play took: 0.310753
+[2018.11.15-05.22.03:359][587]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.11.15-05.22.03:497][587]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.74
+[2018.11.15-05.22.03:498][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.22.03:739][587]LogRenderer: Reallocating scene render targets to support 1296x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.15-05.22.20:140][681]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint12
+[2018.11.15-05.22.23:564][698]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint12
+[2018.11.15-05.22.26:747][715]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint12
+[2018.11.15-05.22.26:747][715]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint9
+[2018.11.15-05.22.31:623][742]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint7
+[2018.11.15-05.22.35:381][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint7
+[2018.11.15-05.22.37:466][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint6
+[2018.11.15-05.22.44:376][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.22.44:376][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.22.44:409][883]LogSlate: Window 'MonsterMash Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.15-05.22.44:543][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-05.22.44:543][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.22.44:636][884]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.15-05.24.24:200][383]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/ThirdPersonExampleMap_Auto10DC2FA454FF341C0B9D1B0BA35BBB165.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.11.15-05.24.24:214][383]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.893
+[2018.11.15-05.24.24:214][383]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.893
+[2018.11.15-05.31.43:850][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.32.14:280][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.32.34:850][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.32.35:095][118]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Hit.Hit
+[2018.11.15-05.32.35:127][118]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2018.11.15-05.33.00:722][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.33.55:558][159]LogEditorViewport: Clicking on Actor (LMB): Emitter (Hit)
+[2018.11.15-05.33.57:282][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.34.24:498][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.34.31:134][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.34.45:308][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.34.49:171][529]LogEditorViewport: Clicking on Actor (LMB): Ocean_Blueprint_C (Ocean_Blueprint)
+[2018.11.15-05.34.50:677][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.35.28:266][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.36.48:461][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Hit" FILE="../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset" SILENT=true
+[2018.11.15-05.36.48:487][949]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Hit2F2F88244C037974A804CD9D5FEB27EF.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset'
+[2018.11.15-05.36.52:204][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.36.52:328][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Hit" FILE="../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset" SILENT=true
+[2018.11.15-05.36.52:355][ 16]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Hit916EBE1B406EC634279B0B8E819FB145.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset'
+[2018.11.15-05.36.53:813][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.36.53:865][ 46]LogSlate: Window 'Hit' being destroyed
+[2018.11.15-05.36.53:921][ 46]LogSlate: Window 'Hit' being destroyed
+[2018.11.15-05.36.53:926][ 46]LogCascade: Quitting Cascade. FXSystem=0x00000229BA522A20
+[2018.11.15-05.36.59:284][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.37.00:462][308]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.37.00:463][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-05.37.00:463][308]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 14, 2018, 7:37:00 PM)
+[2018.11.15-05.37.00:463][308]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.37.00:619][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155695s)
+[2018.11.15-05.37.00:619][308]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.37.00:619][308]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.11.15-05.37.00:620][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.156571s)
+[2018.11.15-05.37.00:646][308]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-05.37.00:660][308]LogInit: FAudioDevice initialized.
+[2018.11.15-05.37.00:660][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.37.00:694][308]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.37.00:846][308]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.37.00
+[2018.11.15-05.37.00:967][308]LogWorld: Bringing up level for play took: 0.271588
+[2018.11.15-05.37.01:102][308]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2018.11.15-05.37.01:102][308]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2018.11.15-05.37.01:107][308]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.361
+[2018.11.15-05.37.01:107][308]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.37.01:597][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.37.01:615][310]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.060398 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_1', movement 'Walking'
+[2018.11.15-05.37.05:704][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.37.16:374][440]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint6
+[2018.11.15-05.37.18:949][462]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint6
+[2018.11.15-05.37.20:927][480]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint6
+[2018.11.15-05.38.11:097][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.38.18:254][975]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] monsterBlueprint12
+[2018.11.15-05.38.34:617][112]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] monsterBlueprint12
+[2018.11.15-05.38.37:235][135]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] monsterBlueprint12
+[2018.11.15-05.38.50:035][247]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] monsterBlueprint100
+[2018.11.15-05.38.51:903][263]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] monsterBlueprint100
+[2018.11.15-05.38.52:726][270]LogBlueprintUserMessages: [ThirdPersonCharacter_C_2] monsterBlueprint100
+[2018.11.15-05.38.53:261][275]PIE: Warning: monsterBlueprint100.CollisionCylinder has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForce. 
+[2018.11.15-05.38.56:129][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.38.56:129][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.38.56:257][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-05.38.56:257][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.38.56:301][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.38.56:323][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.38.56:533][300]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.15-05.38.59:451][374]LogSlate: Window 'Message Log' being destroyed
+[2018.11.15-05.38.59:500][374]LogSlate: Window 'Message Log' being destroyed
+[2018.11.15-05.39.07:561][591]LogEditorViewport: Clicking on Actor (LMB): Emitter (Hit)
+[2018.11.15-05.39.10:921][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.39.11:185][677]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Hit.Hit
+[2018.11.15-05.39.49:674][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.39.57:323][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.40.38:308][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.40.41:265][628]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/ThirdPersonExampleMap_Auto2EF0B43E949D55EFD01350AAB3854A97B.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.11.15-05.40.41:274][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.921
+[2018.11.15-05.40.41:274][628]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.921
+[2018.11.15-05.40.41:276][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Particles/Hit] ([1] browsable assets)...
+[2018.11.15-05.40.41:282][628]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Particles/Hit.Hit]
+[2018.11.15-05.40.41:282][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles/Hit]
+[2018.11.15-05.40.41:309][628]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Hit_Auto25E297F934A4DDDC5D5A9009209F928A3.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/Autosaves/Game/Particles/Hit_Auto2.uasset'
+[2018.11.15-05.40.41:312][628]LogFileHelpers: Auto-saving content packages took 0.036
+[2018.11.15-05.40.50:587][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.41.17:497][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Hit" FILE="../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset" SILENT=true
+[2018.11.15-05.41.17:520][512]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/HitE130A3354DB319A12D4E85859D04D2A2.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset'
+[2018.11.15-05.41.19:853][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.41.19:977][572]LogSlate: Window 'Hit' being destroyed
+[2018.11.15-05.41.20:023][572]LogSlate: Window 'Hit' being destroyed
+[2018.11.15-05.41.20:024][572]LogCascade: Quitting Cascade. FXSystem=0x0000022A7CA7B4C0
+[2018.11.15-05.41.22:004][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.41.22:076][625]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-05.41.22:119][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.41.22:119][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-05.41.22:120][625]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 14, 2018, 7:41:22 PM)
+[2018.11.15-05.41.22:120][625]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.41.22:284][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164197s)
+[2018.11.15-05.41.22:284][625]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.41.22:285][625]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2018.11.15-05.41.22:285][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.164982s)
+[2018.11.15-05.41.22:313][625]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-05.41.22:326][625]LogInit: FAudioDevice initialized.
+[2018.11.15-05.41.22:362][625]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.41.22:511][625]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.41.22
+[2018.11.15-05.41.22:639][625]LogWorld: Bringing up level for play took: 0.276081
+[2018.11.15-05.41.22:765][625]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.023
+[2018.11.15-05.41.22:765][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.41.36:268][729]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint100
+[2018.11.15-05.41.38:645][746]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint100
+[2018.11.15-05.41.42:955][778]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint100
+[2018.11.15-05.41.50:794][843]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint6
+[2018.11.15-05.41.53:015][860]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint6
+[2018.11.15-05.41.55:570][879]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint6
+[2018.11.15-05.41.58:935][907]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint5
+[2018.11.15-05.42.01:151][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint5
+[2018.11.15-05.42.03:657][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint5
+[2018.11.15-05.42.08:900][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint7
+[2018.11.15-05.42.11:804][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint7
+[2018.11.15-05.42.12:988][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.42.14:406][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint7
+[2018.11.15-05.42.16:857][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.42.16:857][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.42.16:992][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-05.42.16:992][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.42.17:034][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.42.17:183][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.15-05.42.17:998][ 77]Cmd: SELECT NONE
+[2018.11.15-05.42.20:214][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.42.20:424][140]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Hit.Hit
+[2018.11.15-05.42.41:720][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.43.42:438][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Hit" FILE="../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset" SILENT=true
+[2018.11.15-05.43.42:464][885]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/HitEAC8194646566E16B3DBB4A05DC5B1EF.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/Particles/Hit.uasset'
+[2018.11.15-05.44.10:717][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.44.10:813][479]LogSlate: Window 'Hit' being destroyed
+[2018.11.15-05.44.10:865][479]LogSlate: Window 'Hit' being destroyed
+[2018.11.15-05.44.10:865][479]LogCascade: Quitting Cascade. FXSystem=0x0000022A752144A0
+[2018.11.15-05.44.22:018][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.44.36:536][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:538][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:540][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:542][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:544][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:546][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:547][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:549][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:551][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:553][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:555][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:556][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:558][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:560][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:562][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:563][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:565][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:567][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:569][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:570][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:572][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:574][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:575][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:577][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:579][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:581][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:583][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:585][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:587][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:589][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:591][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:593][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:596][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:598][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:600][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:602][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:603][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:605][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:607][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:609][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:611][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:613][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:614][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:616][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:618][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:620][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:621][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:623][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:625][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:627][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:628][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:630][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:632][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:633][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:635][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:637][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:639][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:640][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:642][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:643][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:645][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:647][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:649][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:651][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:652][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:654][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:655][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:657][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:659][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:660][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:662][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:664][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:666][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:668][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:669][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:671][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:672][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:674][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:676][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:677][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:679][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:681][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:682][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:684][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:686][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:687][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:689][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:691][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:693][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:695][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:697][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:699][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:700][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:703][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:704][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:706][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:708][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:710][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:711][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:713][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:715][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:717][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:718][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:720][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:721][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:723][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:724][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:726][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:728][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:729][ 15]LogEditorActor: Deleted Actor: monsterBlueprint_C
+[2018.11.15-05.44.36:769][ 15]LogEditorActor: Deleted 110 Actors (0.369 secs)
+[2018.11.15-05.44.38:704][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-05.44.38:737][ 65]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.44.38:738][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-05.44.38:738][ 65]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 14, 2018, 7:44:38 PM)
+[2018.11.15-05.44.38:738][ 65]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.44.38:783][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044173s)
+[2018.11.15-05.44.38:783][ 65]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.44.38:783][ 65]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.11.15-05.44.38:783][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045051s)
+[2018.11.15-05.44.38:806][ 65]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-05.44.38:819][ 65]LogInit: FAudioDevice initialized.
+[2018.11.15-05.44.38:850][ 65]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.44.38:855][ 65]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.44.38
+[2018.11.15-05.44.38:855][ 65]LogWorld: Bringing up level for play took: 0.004124
+[2018.11.15-05.44.38:876][ 65]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.136
+[2018.11.15-05.44.38:876][ 65]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.44.38:878][ 65]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.11.15-05.44.38:878][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.44.41:934][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.44.42:064][159]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.11.15-05.44.42:095][159]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.11.15-05.44.42:127][159]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.44.42:153][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026071s)
+[2018.11.15-05.44.42:154][159]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.44.42:154][159]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2018.11.15-05.44.42:154][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026831s)
+[2018.11.15-05.44.42:154][159]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.44.42:159][159]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.44.42
+[2018.11.15-05.44.42:159][159]LogWorld: Bringing up level for play took: 0.004317
+[2018.11.15-05.44.42:160][159]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2018.11.15-05.44.42:161][159]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_PlayerController
+	LocalMultiplayer_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_C_0
+	Function /Game/Gamemodes/LocalMultiplayer.LocalMultiplayer_C:ExecuteUbergraph_LocalMultiplayer:078C
+[2018.11.15-05.44.42:161][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_PlayerController". Blueprint:  LocalMultiplayer Function:  Execute Ubergraph Local Multiplayer Graph:  IsValid Node:  Branch
+[2018.11.15-05.44.42:169][159]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.11.15-05.44.42:169][159]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_PlayerController
+	LocalMultiplayer_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_C_0
+	Function /Game/Gamemodes/LocalMultiplayer.LocalMultiplayer_C:ExecuteUbergraph_LocalMultiplayer:078C
+[2018.11.15-05.44.42:169][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_PlayerController". Blueprint:  LocalMultiplayer Function:  Execute Ubergraph Local Multiplayer Graph:  IsValid Node:  Branch
+[2018.11.15-05.44.42:169][159]LogLoad: Took 0.073767 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.11.15-05.44.42:170][159]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.11.15-05.44.42:988][183]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.11.15-05.44.43:021][183]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.11.15-05.44.43:056][183]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.44.43:082][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026194s)
+[2018.11.15-05.44.43:082][183]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.44.43:082][183]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2018.11.15-05.44.43:082][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026902s)
+[2018.11.15-05.44.43:082][183]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.44.43:088][183]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.44.43
+[2018.11.15-05.44.43:088][183]LogWorld: Bringing up level for play took: 0.004418
+[2018.11.15-05.44.43:093][183]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.11.15-05.44.43:093][183]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_PlayerController
+	LocalMultiplayer_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_C_0
+	Function /Game/Gamemodes/LocalMultiplayer.LocalMultiplayer_C:ExecuteUbergraph_LocalMultiplayer:078C
+[2018.11.15-05.44.43:093][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_PlayerController". Blueprint:  LocalMultiplayer Function:  Execute Ubergraph Local Multiplayer Graph:  IsValid Node:  Branch
+[2018.11.15-05.44.43:094][183]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2018.11.15-05.44.43:094][183]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_PlayerController
+	LocalMultiplayer_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_C_0
+	Function /Game/Gamemodes/LocalMultiplayer.LocalMultiplayer_C:ExecuteUbergraph_LocalMultiplayer:078C
+[2018.11.15-05.44.43:094][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_PlayerController". Blueprint:  LocalMultiplayer Function:  Execute Ubergraph Local Multiplayer Graph:  IsValid Node:  Branch
+[2018.11.15-05.44.43:098][183]LogLoad: Took 0.076546 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.11.15-05.44.43:099][183]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.11.15-05.44.43:550][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.44.43:680][201]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.11.15-05.44.43:711][201]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.11.15-05.44.43:745][201]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.44.43:770][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025501s)
+[2018.11.15-05.44.43:771][201]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.44.43:771][201]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2018.11.15-05.44.43:771][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026261s)
+[2018.11.15-05.44.43:771][201]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.44.43:777][201]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.44.43
+[2018.11.15-05.44.43:777][201]LogWorld: Bringing up level for play took: 0.004424
+[2018.11.15-05.44.43:778][201]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2018.11.15-05.44.43:778][201]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_PlayerController
+	LocalMultiplayer_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_C_0
+	Function /Game/Gamemodes/LocalMultiplayer.LocalMultiplayer_C:ExecuteUbergraph_LocalMultiplayer:078C
+[2018.11.15-05.44.43:779][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_PlayerController". Blueprint:  LocalMultiplayer Function:  Execute Ubergraph Local Multiplayer Graph:  IsValid Node:  Branch
+[2018.11.15-05.44.43:786][201]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.11.15-05.44.43:786][201]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_PlayerController
+	LocalMultiplayer_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_C_0
+	Function /Game/Gamemodes/LocalMultiplayer.LocalMultiplayer_C:ExecuteUbergraph_LocalMultiplayer:078C
+[2018.11.15-05.44.43:786][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_PlayerController". Blueprint:  LocalMultiplayer Function:  Execute Ubergraph Local Multiplayer Graph:  IsValid Node:  Branch
+[2018.11.15-05.44.43:786][201]LogLoad: Took 0.075015 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.11.15-05.44.43:787][201]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.11.15-05.44.45:247][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.44.45:248][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.44.45:322][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-05.44.45:322][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.44.45:344][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.44.45:379][247]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.15-05.44.47:710][307]LogSlate: Window 'Message Log' being destroyed
+[2018.11.15-05.44.47:758][307]LogSlate: Window 'Message Log' being destroyed
+[2018.11.15-05.44.51:317][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.45.10:350][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.45.16:914][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.45.20:983][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.45.21:116][212]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-05.45.21:156][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.45.21:156][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-05.45.21:157][212]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 14, 2018, 7:45:21 PM)
+[2018.11.15-05.45.21:157][212]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.45.21:195][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038319s)
+[2018.11.15-05.45.21:196][212]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.45.21:196][212]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2018.11.15-05.45.21:196][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039506s)
+[2018.11.15-05.45.21:229][212]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-05.45.21:241][212]LogInit: FAudioDevice initialized.
+[2018.11.15-05.45.21:274][212]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.45.21:281][212]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.45.21
+[2018.11.15-05.45.21:282][212]LogWorld: Bringing up level for play took: 0.006426
+[2018.11.15-05.45.21:304][212]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.564
+[2018.11.15-05.45.21:304][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.45.37:695][415]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint
+[2018.11.15-05.45.42:055][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint
+[2018.11.15-05.45.44:791][509]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint
+[2018.11.15-05.45.44:965][511]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.11.15-05.45.44:965][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.45.46:644][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.45.46:817][533]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.11.15-05.45.46:902][533]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.11.15-05.45.46:934][533]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-05.45.46:967][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032414s)
+[2018.11.15-05.45.46:967][533]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.45.46:968][533]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2018.11.15-05.45.46:968][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033834s)
+[2018.11.15-05.45.46:968][533]LogLoad: Game class is 'LocalMultiplayer_C'
+[2018.11.15-05.45.46:976][533]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-00.45.46
+[2018.11.15-05.45.46:978][533]LogWorld: Bringing up level for play took: 0.008427
+[2018.11.15-05.45.46:982][533]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2018.11.15-05.45.46:982][533]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_PlayerController
+	LocalMultiplayer_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_C_0
+	Function /Game/Gamemodes/LocalMultiplayer.LocalMultiplayer_C:ExecuteUbergraph_LocalMultiplayer:078C
+[2018.11.15-05.45.46:983][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_PlayerController". Blueprint:  LocalMultiplayer Function:  Execute Ubergraph Local Multiplayer Graph:  IsValid Node:  Branch
+[2018.11.15-05.45.46:993][533]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.11.15-05.45.46:993][533]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_PlayerController
+	LocalMultiplayer_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_C_0
+	Function /Game/Gamemodes/LocalMultiplayer.LocalMultiplayer_C:ExecuteUbergraph_LocalMultiplayer:078C
+[2018.11.15-05.45.46:993][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_PlayerController". Blueprint:  LocalMultiplayer Function:  Execute Ubergraph Local Multiplayer Graph:  IsValid Node:  Branch
+[2018.11.15-05.45.46:993][533]LogLoad: Took 0.090858 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.11.15-05.45.49:866][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.45.53:735][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.45.53:735][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.45.53:858][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-05.45.53:859][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-05.45.53:889][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-05.45.53:900][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.45.53:999][627]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.15-05.45.57:246][720]LogSlate: Window 'Message Log' being destroyed
+[2018.11.15-05.45.57:285][720]LogSlate: Window 'Message Log' being destroyed
+[2018.11.15-05.45.59:730][798]Cmd: TRANSACTION UNDO
+[2018.11.15-05.45.59:730][798]LogEditorTransaction: Undo Move Actors
+[2018.11.15-05.46.00:616][821]Cmd: TRANSACTION UNDO
+[2018.11.15-05.46.00:616][821]LogEditorTransaction: Undo Create Actors
+[2018.11.15-05.46.01:367][842]Cmd: TRANSACTION UNDO
+[2018.11.15-05.46.01:367][842]LogEditorTransaction: Undo Delete selection
+[2018.11.15-05.46.34:511][516]LogEditorViewport: Clicking on Actor (LMB): Emitter (Hit)
+[2018.11.15-05.46.35:962][551]Cmd: DELETE
+[2018.11.15-05.46.35:962][551]Cmd: ACTOR DELETE
+[2018.11.15-05.46.36:074][551]LogEditorActor: Deleted Actor: Emitter
+[2018.11.15-05.46.36:099][551]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2018.11.15-05.46.42:253][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.46.51:848][925]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2018.11.15-05.46.51:848][925]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2018.11.15-05.46.51:848][925]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2018.11.15-05.46.51:850][925]LogAIModule: Creating AISystem for world MonsterTesting
+[2018.11.15-05.46.51:860][925]LogAssetEditorManager: Opening Asset editor for World /Game/SAVES/MonsterTesting.MonsterTesting
+[2018.11.15-05.47.00:249][925]LogSlate: Window 'Save Content' being destroyed
+[2018.11.15-05.47.03:217][925]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/ThirdPersonExampleMapF86BD9C74FBD2936F436BFAC382F1670.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.11.15-05.47.03:289][925]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 3.033
+[2018.11.15-05.47.03:697][925]LogSavePackage: Moving '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Saved/ThirdPersonExampleMap_BuiltData9ED6FF98483C18841DCE8A885E4FF3D9.tmp' to '../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.11.15-05.47.03:705][925]Cmd: MAP LOAD FILE="../../../../../../Users/thomas.sullivan/Desktop/capstone-2018-19-t15/MonsterMash 4.21/Content/SAVES/MonsterTesting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.15-05.47.03:705][925]LightingResults: New page: Lighting Build
+[2018.11.15-05.47.03:705][925]LoadErrors: New page: Loading map: MonsterTesting.umap
+[2018.11.15-05.47.03:746][925]MapCheck: New page: Map Check
+[2018.11.15-05.47.03:746][925]LightingResults: New page: Lighting Build
+[2018.11.15-05.47.03:826][925]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.15-05.47.03:902][925]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.15-05.47.03:902][925]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.262ms to complete.
+[2018.11.15-05.47.03:902][925]LogFileHelpers: Loading map 'MonsterTesting' took 0.199
+[2018.11.15-05.47.04:550][925]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-05.47.14:734][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.47.14:844][181]MapCheck: New page: Map Check
+[2018.11.15-05.47.14:913][181]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.15-05.47.14:913][181]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.15-05.47.14:991][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy mi_ground_desert, compiling. 
+[2018.11.15-05.47.14:997][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.15-05.47.15:004][181]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.47.15:005][181]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-05.47.15:005][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy mi_slime_blue, compiling. 
+[2018.11.15-05.47.15:011][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bat_body, compiling. 
+[2018.11.15-05.47.15:023][181]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-05.47.15:024][181]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-05.47.15:024][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bat_wing, compiling. 
+[2018.11.15-05.47.15:037][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.11.15-05.47.15:049][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.11.15-05.47.15:062][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy snowflake, compiling. 
+[2018.11.15-05.47.15:073][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2018.11.15-05.47.15:084][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.11.15-05.47.15:094][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2018.11.15-05.47.15:105][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.11.15-05.47.15:115][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.15-05.47.15:725][181]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-05.47.15:725][181]TextureStreamingBuild: Display: Compiling optional shaders took 0.738 seconds.
+[2018.11.15-05.47.15:748][181]LogLevel: Display: Export Material TexCoord Scales took 0.023 seconds.
+[2018.11.15-05.47.15:754][181]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.11.15-05.47.15:776][181]LightingResults: New page: Lighting Build - Nov 14, 2018, 7:47:15 PM
+[2018.11.15-05.47.15:785][181]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.15-05.47.15:788][181]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.15-05.47.15:788][181]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.15-05.47.15:789][181]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.15-05.47.15:789][181]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1560
+[2018.11.15-05.47.20:343][181]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.15-05.47.20:344][181]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.15-05.47.20:344][181]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.15-05.47.20:344][181]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.15-05.47.20:344][181]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.15-05.47.20:565][181]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.15-05.47.20:565][181]MapCheck: New page: MonsterTesting - Nov 14, 2018, 7:47:20 PM
+[2018.11.15-05.47.20:570][181]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.11.15-05.47.20:570][181]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 5.715ms to complete.
+[2018.11.15-05.47.20:593][181]LogEditorBuildUtils: Build time 0:05
+[2018.11.15-05.47.20:604][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.47.22:275][213]Job is a success!
+[2018.11.15-05.47.22:501][214]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2018.11.15-05.47.22:501][214]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.15-05.47.22:501][214]LogVolumetricLightmapImport:      BrickData 295x5x5 = 0.3Mb
+[2018.11.15-05.47.22:501][214]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.15-05.47.22:501][214]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2018.11.15-05.47.22:501][214]LogVolumetricLightmapImport:          1: 15.3% covering 14.1% of volume
+[2018.11.15-05.47.22:501][214]LogVolumetricLightmapImport:          2: 83.1% covering 1.2% of volume
+[2018.11.15-05.47.22:569][214]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2018.11.15-05.47.22:569][214]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2018.11.15-05.47.22:569][214]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2018.11.15-05.47.22:569][214]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.11.15-05.47.22:569][214]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.11.15-05.47.22:569][214]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.11.15-05.47.22:569][214]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.11.15-05.47.22:569][214]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2018.11.15-05.47.22:597][214]Lightmass on FOS2ND-03: 1.16 sec total, 127 ms importing, 7 ms setup, 394 ms photons, 624 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 4.21 sec total, 153 ms processing.
+[2018.11.15-05.47.22:652][214]LogStaticLightingSystem: Illumination: 6.78 sec (7 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2018.11.15-05.47.22:652][214]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.15-05.47.22:652][214]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.15-05.47.23:350][214]DumpUnbuiltLightIteractions
+[2018.11.15-05.47.23:350][214]Lights with unbuilt interactions: 0
+[2018.11.15-05.47.23:350][214]
+[2018.11.15-05.47.23:350][214]Primitives with unbuilt interactions: 0
+[2018.11.15-05.47.23:358][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-05.47.23:501][215]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.15-05.47.23:501][215]MapCheck: New page: MonsterTesting - Nov 14, 2018, 7:47:23 PM
+[2018.11.15-05.47.23:501][215]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.642ms to complete.
+[2018.11.15-05.47.25:790][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.47.25:861][282]LogSlate: Window 'Message Log' being destroyed
+[2018.11.15-05.47.25:900][282]LogSlate: Window 'Message Log' being destroyed
+[2018.11.15-05.47.30:109][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-05.47.30:173][411]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-05.47.30:207][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SAVES/MonsterTesting.MonsterTesting:PersistentLevel' has LevelScriptBlueprint '/Game/SAVES/MonsterTesting.MonsterTesting:PersistentLevel.MonsterTesting' with GeneratedClass '/Game/SAVES/MonsterTesting.MonsterTesting_C' with ClassGeneratedBy '/Game/SAVES/MonsterTesting.MonsterTesting:PersistentLevel.MonsterTesting'
+[2018.11.15-05.47.30:207][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-05.47.30:207][411]PIE: New page: PIE session: MonsterTesting (Nov 14, 2018, 7:47:30 PM)
+[2018.11.15-05.47.30:207][411]LogPlayLevel: Creating play world package: /Game/SAVES/UEDPIE_0_MonsterTesting
+[2018.11.15-05.47.30:214][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005905s)
+[2018.11.15-05.47.30:215][411]LogAIModule: Creating AISystem for world MonsterTesting
+[2018.11.15-05.47.30:215][411]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2018.11.15-05.47.30:215][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SAVES/MonsterTesting.MonsterTesting to /Game/SAVES/UEDPIE_0_MonsterTesting.MonsterTesting (0.007641s)
+[2018.11.15-05.47.30:244][411]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-05.47.30:257][411]LogInit: FAudioDevice initialized.
+[2018.11.15-05.47.30:291][411]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.15-05.47.30:294][411]LogWorld: Bringing World /Game/SAVES/UEDPIE_0_MonsterTesting.MonsterTesting up for play (max tick rate 0) at 2018.11.15-00.47.30
+[2018.11.15-05.47.30:296][411]LogWorld: Bringing up level for play took: 0.003884
+[2018.11.15-05.47.30:318][411]PIE: Play in editor start time for /Game/SAVES/UEDPIE_0_MonsterTesting -0.419
+[2018.11.15-05.47.30:319][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SAVES/MonsterTesting.MonsterTesting:PersistentLevel' has LevelScriptBlueprint '/Game/SAVES/MonsterTesting.MonsterTesting:PersistentLevel.MonsterTesting' with GeneratedClass '/Game/SAVES/MonsterTesting.MonsterTesting_C' with ClassGeneratedBy '/Game/SAVES/MonsterTesting.MonsterTesting:PersistentLevel.MonsterTesting'
+[2018.11.15-05.47.30:319][411]LogScript: Warning: Accessed None trying to read property healthBar
+	ThirdPersonCharacter_C /Game/SAVES/UEDPIE_0_MonsterTesting.MonsterTesting:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0487
+[2018.11.15-05.47.30:319][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property healthBar". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  IsValid Node:  Branch
+[2018.11.15-05.47.35:977][523]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] monsterBlueprint
+[2018.11.15-05.47.43:091][644]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=7.85 Y=-12.80 Z=0.00 Location: X=-401.12 Y=643.18 Z=140.27 Normal: X=-0.84 Y=0.38 Z=-0.39 PenetrationDepth:5.160 Actor:monsterBlueprint_2 Component:armorSkeletal BoneName:joint35 (0 other events since notify)
+[2018.11.15-05.47.43:270][647]LogOutputDevice: Warning: 
+
+Script Stack (8 frames):
+monsterBlueprint_C.ExecuteUbergraph_monsterBlueprint
+monsterBlueprint_C.faceTarget
+monsterBlueprint_C.ExecuteUbergraph_monsterBlueprint
+monsterBlueprint_C.attackController
+monsterBlueprint_C.ExecuteUbergraph_monsterBlueprint
+monsterBlueprint_C.AI Manager
+monsterBlueprint_C.ExecuteUbergraph_monsterBlueprint
+monsterBlueprint_C.ReceiveTick
+
+[2018.11.15-05.47.44:671][647]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.400 s
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: 
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: Ensure condition failed: Lhs.CurrentNum == Lhs.InitialNum [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 206]
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: Array has changed during ranged-for iteration!
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: Stack: 
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c640e7a UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c626bb9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c641f9c UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c61d193 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c5bb020 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c633465 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c63378c UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c61e7cd UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c06663c UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a7d4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d94ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9fdd1c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5aa0045f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d9e7d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5aa0045f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d9e7d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5aa0045f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d9e7d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5aa0045f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d9e7d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5aa0045f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d9e7d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5aa0045f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d9e7d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5aa0045f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d9e7d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5aa0045f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a7d4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:671][647]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9ff9f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c1137d3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3d538c1a UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c13377e UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c133f0f UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3c0eefd3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3d393b8d UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc59d11798 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc59d11c56 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc59d25085 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3d3eaaa4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3d3fa812 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3cacb8c4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3cad76a2 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3abd1fa5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc3b4f2256 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ff6168b6225 UE4Editor.exe!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ff6168c596c UE4Editor.exe!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ff6168c59ea UE4Editor.exe!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ff6168d48da UE4Editor.exe!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ff6168d659a UE4Editor.exe!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc98221fe4 KERNEL32.DLL!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: [Callstack] 0x00007ffc9a4ccb31 ntdll.dll!UnknownFunction []
+[2018.11.15-05.47.44:672][647]LogOutputDevice: Error: 
+[2018.11.15-05.47.44:677][647]LogStats:                SubmitErrorReport -  0.000 s
